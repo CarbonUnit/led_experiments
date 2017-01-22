@@ -8,7 +8,7 @@ LED_TIMEOUT_S = 0.5
 led_list = [ 0,1 ,2 ,3 ,4 ]
 
 #GPIO Pin used (mapped to index above)
-pin_list = [ 4,17,27,22,23 ]
+pin_list = [ 4,17,27,22,10 ]
 
 #Make a list of the LED index and LED pins as a dictionary
 master_list = []
